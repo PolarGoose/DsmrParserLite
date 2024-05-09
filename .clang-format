@@ -1,0 +1,8 @@
+---
+BasedOnStyle: LLVM
+ColumnLimit: 150
+CompactNamespaces: true
+FixNamespaceComments: false
+ReflowComments: false
+PointerAlignment: Left
+...
